@@ -1,6 +1,0 @@
-<?import javafx.geometry.Inserts?>
-<?import javafx.scene.layout.GridPane?>
-
-<?import javafx.scene.control.Button?>
-<GridPane fx:controller="sample.StoreControlller"
-          xmlns:fx="http://javafx.com/fxml"></GridPane>
