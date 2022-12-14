@@ -1,8 +1,14 @@
-# Puzzle-game-in-Java-Swing
-Sources from the ZetCode's Puzzle game in Java Swing
+FP-PBO-2022
+Final Project PBO 2022
+Kirana Alivia Enrico
+5025211190
 
+Project Type : Puzzle Game
+GUI : JavaFX
+
+Sources from the ZetCode's Puzzle game in Java Swing
 http://zetcode.com/javagames/puzzle/
 
-![Puzzle game screenshot](puzzle.png)
-
-Available under 2-Clause BSD License https://opensource.org/licenses/BSD-2-Clause
+OOP Elements I implement :
+1. Inheritance
+2. 
